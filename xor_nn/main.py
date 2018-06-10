@@ -42,7 +42,6 @@ output_units = 2
 w01 = np.random.random((len(features[0]), hidden_units))
 w12 = np.random.random((hidden_units, output_units))
 
-
 # learning rate
 eta = 0.1
 # change to 20000 for training
