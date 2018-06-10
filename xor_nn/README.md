@@ -1,5 +1,7 @@
 # XOR Neural Network
 
+### Date: 6/10/18
+
 Originally, I was attempting to create this neural network from scratch using a
 class Unit that would contain the units value, next & prev layers and the
 weights from the previous nodes. Doing so made the process way more convoluted
