@@ -7,13 +7,13 @@ import numpy as np
 '''
 Creating neural network with the following shape
 
-O---->O
- \   ^ \ 
-  \ /   v
-   X     O
-  / \   ^
- /   v /
-O---->O
+O---->O---->O --> 0
+ \   ^ \   ^ 
+  \ /   \ /  
+   X     X   
+  / \   / \  
+ /   v /   v 
+O---->O---->O --> 1
 '''
 
 
@@ -30,18 +30,23 @@ features = np.array([
         [1, 1]
         ])
 labels = np.array([
-        [0],
-        [1],
-        [1],
-        [0]
+        [1, 0],
+        [0, 1],
+        [0, 1],
+        [1, 0]
         ])
 
 hidden_units = 2
-w01 = np.random.random((len(features[0]), hidden_units))
-w12 = np.random.random((hidden_units, 1))
+output_units = 2
 
+w01 = np.random.random((len(features[0]), hidden_units))
+w12 = np.random.random((hidden_units, output_units))
+
+
+# learning rate
 eta = 0.1
-epochs = range(1)
+# change to 20000 for training
+epochs = range(20000)
 
 for _ in epochs:
     # Feed forward
@@ -71,7 +76,6 @@ for _ in epochs:
     w01 -= (eta * delta_hidden)
     w12 -= (eta * delta_output)
 
-
 z_h = np.dot(features, w01)
 a_h = sigmoid(z_h)
 
@@ -81,6 +85,5 @@ a_o = sigmoid(z_o)
 print(a_o)
 
 for o, l in zip(a_o, labels):
-    prediction = int(o > .5)
     print("Label: " + str(l))
-    print("Prediction: " + str(prediction))
+    print("Prediction: " + str(o))

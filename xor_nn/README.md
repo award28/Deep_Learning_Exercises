@@ -16,3 +16,9 @@ my own, I have a successful XOR network! My goal now is to make it work with two
 output nodes, one representing 1 and the other 0. Then, I can apply the same
 concepts used here for my next deep learning exercise; a neural network w/ out 
 machine learning libraries that works on the MNIST data set.
+
+####  Update:
+
+Since I've started looking at this problem from a linear algebra perspective 
+it's much more intuitive, and I was able to get the network working with two
+outputs! Now it's time to move onto the MNIST dataset.
