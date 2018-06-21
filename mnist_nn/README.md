@@ -1,4 +1,4 @@
-# MNIST Multilayer Perceptron 
+# MNIST Neural Network
 
 ### Date: 6/10/18
 
@@ -22,5 +22,5 @@ Some of the challenges I faced:
 
 Thank you [Michael Nielsen](http://michaelnielsen.org/) for writting the
 _[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)_
- online book, this really helped me understand neural networks and breaking down
-my network into sub problems.
+ online book, this really helped me understand neural networks and break down my
+ network into sub problems.
