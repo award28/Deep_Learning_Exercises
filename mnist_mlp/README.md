@@ -14,11 +14,11 @@ After breaking the model up into sub problems and tackling those, I have a
 neural network that will now classify hand written digits correctly ~96% of the
 time.
 
-Some of the challenges I face:
-  . Overflow error on the exponential inside the sigmoid.
-    . Changed the range of my values from 0-255 to 0-1, proportionally.
-  . Getting the correct shape for my weights.
-    . Understanding the notation for weights and applying that notation.
+Some of the challenges I faced:
+  - Overflow error on the exponential inside the sigmoid.
+    - Changed the range of my values from 0-255 to 0-1, proportionally.
+  - Getting the correct shape for my weights.
+    - Understanding the notation for weights and applying that notation.
 
 Thank you [Michael Nielsen](http://michaelnielsen.org/) for writting the
 _[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)_
