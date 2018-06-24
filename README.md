@@ -4,8 +4,7 @@ Exercises to help learn material from the
 
 ## Path for Learning
 The overarching objective of this project is to gain a deeper understanding of
-deep learning as whole, and all of the various algorithms that makeup deep 
-learning. 
+deep learning.
 
 All of the exercises that I attempt in this project will be done from scratch 
 with guidance as needed from various textbooks and tutorials. Resources used to
