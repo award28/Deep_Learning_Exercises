@@ -22,7 +22,7 @@ All of the unfinished Exercise are subject to change.
 |Ch. 6 ([Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html))|Reading|Yes|
 |XOR NN|Exercise|Yes|
 |MNIST NN|Exrecise|Yes|
-|Ch. 7 ([Regularization](http://www.deeplearningbook.org/contents/regularization.html))|Reading|No|
+|Ch. 7 ([Regularization](http://www.deeplearningbook.org/contents/regularization.html))|Reading|In Progress|
 |Ch. 8 ([Optimization](http://www.deeplearningbook.org/contents/optimization.html))|Reading|No|
 |Ch. 9 ([CNNs](http://www.deeplearningbook.org/contents/convnets.html))|Reading|No|
 |MNIST CNN|Exercise|No|
@@ -33,11 +33,11 @@ All of the unfinished Exercise are subject to change.
 |Chatbot RNN|Exercise|No|
 |Chatbot LSTM|Exercise|No|
 
-## Exercises:
- - [XOR Neural Network](./xor_nn) - Completed
- - [MNIST Neural Network](./mnist_nn) - Completed
+## Completed Exercises:
+ - [XOR Neural Network](./xor_nn)
+ - [MNIST Neural Network](./mnist_nn)
 
-### Potential Projects:
+### Remaining Projects:
  - Convolutional Neural Network on [MNIST](http://yann.lecun.com/exdb/mnist/)
  - Convolutional Neural Network on [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
  - Recurrent Neural Network to predict next word in a sentence
