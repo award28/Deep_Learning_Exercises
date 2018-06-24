@@ -19,7 +19,7 @@ All of the unfinished Exercise are subject to change.
 |Material|Type|Completed?|
 |--------|----|----------|
 |[Part 1](http://www.deeplearningbook.org/contents/part_basics.html)|Reading|Yes|
-|Ch. 6 ([Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html))|Reading|No|
+|Ch. 6 ([Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html))|Reading|Yes|
 |XOR NN|Exercise|Yes|
 |MNIST NN|Exrecise|Yes|
 |Ch. 7 ([Regularization](http://www.deeplearningbook.org/contents/regularization.html))|Reading|No|
