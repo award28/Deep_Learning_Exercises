@@ -1,4 +1,4 @@
-# deep_learning_exercises
+# Deep_Learning_Exercises
 Exercises to help learn material from the 
 [Deep Learning Book.](http://www.deeplearningbook.org/)
 
