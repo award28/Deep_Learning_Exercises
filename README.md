@@ -7,7 +7,7 @@ Exercises to help learn material from the
 If deep learning seems interesting to you, I would checkout 
 [this](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
 video series by [3Blue1Brown](https://www.youtube.com/3blue1brown) 
-which covers neural networks. If this is something that you like to learn how to
+which covers neural networks. If this is something that you would like to learn how to
 implement on your own, this may be a good place to start.
 
 I highly recommend you have a firm understanding of linear algebra and part 1
