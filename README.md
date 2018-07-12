@@ -1,6 +1,22 @@
-# deep_learning_exercises
+# deep\_learning\_exercises
 Exercises to help learn material from the 
 [Deep Learning Book.](http://www.deeplearningbook.org/)
+
+## Prerequisites
+
+If deep learning seems interesting to you, I would checkout 
+[this](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
+video series by [3Blue1Brown](https://www.youtube.com/3blue1brown) 
+which covers neural networks. If this is something that you like to learn how to
+implement on your own, this may be a good place to start.
+
+I highly recommend you have a firm understanding of linear algebra and part 1
+of the text before you continue on to the more exciting chapters. While reading 
+chapter 7 (regularization) I had to stop and refresh with the 
+[Khan Academy Linear Algebra Course](https://www.khanacademy.org/math/linear-algebra).
+
+It may be useful to have multivariable calculus under your belt. I have not taken this course, but it comes up frequently throughout the Deep Learning Book. Check out the 
+[Khan Academy Multivariable Calculus Course](https://www.khanacademy.org/math/multivariable-calculus).
 
 ## Path for Learning
 The overarching objective of this project is to gain a deeper understanding of
@@ -13,7 +29,7 @@ used more than once I will most likely put them in this readme.
 
 There is no strict path for projects, but I will tend to follow the chapters
 in the main text. Below is a rough idea of how I plan to complete this project.
-All of the unfinished Exercise are subject to change.
+All of the unfinished exercises are subject to change.
 
 |Material|Type|Completed?|
 |--------|----|----------|
@@ -43,3 +59,18 @@ All of the unfinished Exercise are subject to change.
  - Long Short-Term Memory to predict next word in a sentence
  - Recurrent Neural Network chatbot
  - Long Short-Term Memory chatbot
+
+
+## References 
+
+### Texts
+
+ - [Deep Learning Book by Ian Goodfellow et al.](http://www.deeplearningbook.org/)
+ - [3Blue1Brown by Grant Sanderson](https://www.youtube.com/3blue1brown)
+ - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+ - [Machine Learning by Tom Mitchell](https://www.amazon.com/Learning-McGraw-Hill-International-Editions-Computer/dp/0071154671/ref=sr_1_14?ie=UTF8&qid=1531407148&sr=8-14&keywords=machine+learning)
+
+### Courses
+
+ - [Khan Academy Linear Algebra Course](https://www.khanacademy.org/math/linear-algebra)
+ - [Khan Academy Multivariable Calculus Course](https://www.khanacademy.org/math/multivariable-calculus)
